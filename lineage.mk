@@ -1,7 +1,7 @@
 # Inherit from common
-$(call inherit-product, device/samsung/o7-common/lineage.mk)
+$(call inherit-product, device/samsung/j5x-common/lineage.mk)
 
-$(call inherit-product, device/samsung/o7prolte/device.mk)
+$(call inherit-product, device/samsung/j5xnlte/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := o7prolte

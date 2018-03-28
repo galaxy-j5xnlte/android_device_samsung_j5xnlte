@@ -1,3 +1,3 @@
-LOCAL_PATH := device/samsung/o7prolte
+LOCAL_PATH := device/samsung/j5xnlte
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_o7prolte.mk
+    $(LOCAL_DIR)/omni_j5xnlte.mk
